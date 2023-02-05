@@ -49,8 +49,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          npm install \
-          && hugo \
+          hugo \
             --minify \
             --baseURL "/"
       - name: Upload artifact

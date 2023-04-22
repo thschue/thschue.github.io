@@ -10,7 +10,7 @@ Link: [Meetup](https://www.meetup.com/vienna-devops-security/events/292658783/)
 
 
 **2023-05-18: DevOps Pro, Vilnius, LT** <br />
-Stop Building Delivery Pipelines, Start Leveraging Lifecycle Events for True Cloud-Native Delivery!
+Stop Building Delivery Pipelines, Start Leveraging Lifecycle Events for True Cloud-Native Delivery! <br />
 Link: [DevOps Pro](https://events.pinetool.ai/2928/#sessions/99177)
 
 

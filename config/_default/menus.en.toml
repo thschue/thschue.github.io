@@ -20,6 +20,11 @@ name = "Speaking"
 pageRef = "speaking"
 weight = 20
 
+[[main]]
+name = "Teaching/Training"
+pageRef = "teaching"
+weight = 30
+
 # [[main]]
 #   name = "Categories"
 #   pageRef = "categories"

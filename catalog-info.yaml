@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: thschue.github.io
+  description: thschue Website
+  annotations:
+    github.com/project-slug: 'thschue/thschue.github.io'
+spec:
+  type: website
+  lifecycle: production
+  owner: platform-team
